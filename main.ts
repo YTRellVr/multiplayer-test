@@ -1,8 +1,5 @@
 //set up
-forever(function() {
-    mp.allPlayers()
-
-})
+mp.setPlayerIndicatorsVisible(true)
 scene.setBackgroundImage(assets.image`background`)
 //Players
 let Player1 = sprites.create(assets.image`Player1`, SpriteKind.Player)
