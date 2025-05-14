@@ -5,7 +5,11 @@
     "dependencies": {
         "device": "*",
         "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
-        "sevenseg": "*"
+        "sevenseg": "*",
+        "multiplayer": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1",
+        "Makey Makey Keymappings": "github:joylabz/makeymakey-makecode-arcade-extension#1.0.3"
     },
     "files": [
         "main.blocks",
