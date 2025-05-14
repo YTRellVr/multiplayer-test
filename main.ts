@@ -12,8 +12,5 @@ Player2.setStayInScreen(false)
 controller.player2.moveSprite(Player2)
 
 
-//Scrolling background
-scroller.setCameraScrollingMultipliers(9, 8)
-scroller.scrollBackgroundWithSpeed(100, 100)
-scroller.scrollBackgroundWithCamera(scroller.CameraScrollMode.OnlyHorizontal)
+
 scene.cameraFollowSprite(Player1)
