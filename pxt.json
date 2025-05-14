@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "sevenseg": "*"
     },
     "files": [
         "main.blocks",
