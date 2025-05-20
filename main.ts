@@ -10,6 +10,7 @@ Player2.setScale(1.5, ScaleAnchor.Middle)
 Player1.setStayInScreen(false)
 Player2.setStayInScreen(false)
 scene.cameraFollowSprite(Player1)
+
 tiles.setCurrentTilemap(tilemap`level`)
 
 //Movement p1
